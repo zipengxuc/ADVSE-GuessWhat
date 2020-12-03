@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Log Parsing</title>
+
+    <!-- jquery + font awesome -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+
+    <!-- Bootstrap core CSS + core JS-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+    <script>
+    $(document).ready(function() {
+        $('th').click(function () {
+            var table = $(this).parents('table').eq(0);
+            var rows = table.find('tr:gt(0)').toArray().sort(comparer($(this).index()));
+            this.asc = !this.asc
+            if (!this.asc) {
+                rows = rows.reverse()
+            }
+            for (var i = 0; i < rows.length; i++) {
+                table.append(rows[i])
+            }
+        });
+
+        function comparer(index) {
+            return function (a, b) {
+                var valA = getCellValue(a, index), valB = getCellValue(b, index);
+                return $.isNumeric(valA) && $.isNumeric(valB) ? valA - valB : valA.localeCompare(valB)
+            }
+        }
+
+        function getCellValue(row, index) {
+            return $(row).children('td').eq(index).text()
+        }
+    });
+    </script>
+
+  </head>
+
+  <body>
+  
+<div class="container" style="margin-top: 15px">
+
+  <table class="table table-striped">
+  	<thead>
+    <tr>
+      <th>Metric : {{ metric }}</th>
+      <th>Epoch</th>
+      <th>Train</th>
+      <th>Valid</th>
+      <th>Test</th>
+    </tr>
+  </thead>
+  <tbody>
+  	{% for xp in experiences %}
+	    <tr>
+	      <th scope="row"> {{xp.name}} <br> <a href="./config/{{xp.hash_id}}.json">{{xp.hash_id}}</a> </th>
+	      <td>{{xp.epoch}}</td>
+	      <td>{{xp.train}}</td>
+	      <td>{{xp.valid}}</td>
+	      <td>{{xp.test}}</td>
+	    </tr>
+	{% endfor %}
+  </tbody>
+  </table>
+
+</div>
+  </body>
+</html>

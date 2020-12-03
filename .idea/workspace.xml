@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36a7cfff-805e-4d26-b31b-b68b7771293a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/neural_toolbox/rnn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4698">
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/neural_toolbox/rnn_v1.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/neural_toolbox/utils_v1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1334">
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/neural_toolbox/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/guesswhat/models/qgen/qgen_factory.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="46" lean-forward="true" selection-start-column="46" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/guesswhat/models/guesser/guesser_factory.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>guesswhat_att</find>
+      <find>new_object_ana</find>
+      <find>Dataset_visg</find>
+      <find>game_engine</find>
+      <find>N/A</find>
+      <find>testset</find>
+      <find>logging</find>
+      <find>log_file</find>
+      <find>train.l</find>
+      <find>logger</find>
+      <find>ensure_file</find>
+      <find>optimi</find>
+      <find>self._question</find>
+      <find>rcnn</find>
+      <find>_create</find>
+      <find>eval_config</find>
+      <find>dummy_dataset</find>
+      <find>xp_dir</find>
+      <find>_create_image_builder_rcnn</find>
+      <find>uesser_listener</find>
+      <find>token</find>
+      <find>looper</find>
+      <find>img_dir</find>
+      <find>+1</find>
+      <find>dataset</find>
+      <find>qgen_identifier</find>
+      <find>import rnn</find>
+      <find>rnn</find>
+      <find>rnn_v1</find>
+      <find>utils</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/guesswhat/models/qgen/rl_module.py" />
+        <option value="$PROJECT_DIR$/config/looper/config.uaqrah8gcr.json" />
+        <option value="$PROJECT_DIR$/src/guesswhat/train/train_qgen_reinforce_cr.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/models/qgen/qgen_wrapper.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/models/looper/basic_looper.py" />
+        <option value="$PROJECT_DIR$/config/qgen/config.uaqraht1.json" />
+        <option value="$PROJECT_DIR$/src/auto_compare.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/models/qgen/qgen_uaqrah_network5m2_1.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/models/qgen/qgen_uaqrah_network5m2_5.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/models/qgen/qgen_uaqrah_network5m2.py" />
+        <option value="$PROJECT_DIR$/config/qgen/config.uaqrahnp.json" />
+        <option value="$PROJECT_DIR$/config/looper/config.uaqrah8np.json" />
+        <option value="$PROJECT_DIR$/src/generic/tf_factory/attention_factory.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/train/train_oracle.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/models/oracle/oracle_film.py" />
+        <option value="$PROJECT_DIR$/config/oracle/config.film.json" />
+        <option value="$PROJECT_DIR$/src/guesswhat/data_provider/oracle_batchifier.py" />
+        <option value="$PROJECT_DIR$/data/dict1.json" />
+        <option value="$PROJECT_DIR$/src/guesswhat/preprocess_data/create_dictionary.py" />
+        <option value="$PROJECT_DIR$/config/guesser/config.rahRR.json" />
+        <option value="$PROJECT_DIR$/src/guesswhat/data_provider/guesser_qa_batchifier.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/data_provider/guesswhat_tokenizer_orig.py" />
+        <option value="$PROJECT_DIR$/config/guesser/config.rahRRm1.json" />
+        <option value="$PROJECT_DIR$/config/guesser/config.rahRRm5.json" />
+        <option value="$PROJECT_DIR$/config/looper/config.uaqrah8npg.json" />
+        <option value="$PROJECT_DIR$/src/generic/data_provider/util.py" />
+        <option value="$PROJECT_DIR$/src/generic/data_provider/image_loader.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/models/guesser/guesser_RAHnp.py" />
+        <option value="$PROJECT_DIR$/config/guesser/config.rahRRnp.json" />
+        <option value="$PROJECT_DIR$/src/guesswhat/models/qgen/qgen_uaqrah_network5m2np.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/models/qgen/qgen_uaqrah_new.py" />
+        <option value="$PROJECT_DIR$/config/qgen/config.uaqrah_new2.json" />
+        <option value="$PROJECT_DIR$/src/guesswhat/models/qgen/qgen_uaqrah_new2.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/train/train_qgen_supervised2.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/models/qgen/5m2.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/train/viz_guesser.py" />
+        <option value="$PROJECT_DIR$/config/guesser/config.json" />
+        <option value="$PROJECT_DIR$/src/generic/tf_utils/evaluator.py" />
+        <option value="$PROJECT_DIR$/src/na_guess.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/train/train_guesser.py" />
+        <option value="$PROJECT_DIR$/src/cc.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/eval/interactive_dialogue.py" />
+        <option value="$USER_HOME$/Downloads/interactive_dialogue.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/models/guesser/guesser_wrapper.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/train/train_qgen_reinforce.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/train/train_qgen_supervised.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/models/guesser/guesser_RAH.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/models/oracle/oracle_factory.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/models/oracle/oracle_wrapper.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/models/qgen/qgen_factory.py" />
+        <option value="$PROJECT_DIR$/src/guesswhat/models/guesser/guesser_factory.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ADVSE-GuessWhat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ADVSE-GuessWhat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ADVSE-GuessWhat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ADVSE-GuessWhat" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../guesswhat_v2/src/guesswhat/eval/interactive_dialogue.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config/qgen" />
+      <recent name="$PROJECT_DIR$/src/guesswhat/models/qgen" />
+      <recent name="$PROJECT_DIR$/config/guesser" />
+      <recent name="$PROJECT_DIR$/src/guesswhat/models/guesser" />
+      <recent name="$PROJECT_DIR$/config/looper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="guesswhat_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="guesswhat_v2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/guesswhat/data_provider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/guesswhat/data_provider/guesswhat_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.guesswhat_dataset" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36a7cfff-805e-4d26-b31b-b68b7771293a" name="Default Changelist" comment="" />
+      <created>1575720605812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575720605812</updated>
+      <workItem from="1575720607051" duration="38588000" />
+      <workItem from="1575898190880" duration="537826000" />
+      <workItem from="1579049666168" duration="45040000" />
+      <workItem from="1579513968940" duration="1533000" />
+      <workItem from="1579608337920" duration="18681000" />
+      <workItem from="1581396051297" duration="165198000" />
+      <workItem from="1585870732811" duration="9783000" />
+      <workItem from="1586338419046" duration="16472000" />
+      <workItem from="1587969297417" duration="7013000" />
+      <workItem from="1588215661692" duration="20596000" />
+      <workItem from="1588842681183" duration="615000" />
+      <workItem from="1588850820536" duration="22000" />
+      <workItem from="1588866980387" duration="3414000" />
+      <workItem from="1589121745021" duration="8741000" />
+      <workItem from="1589274314709" duration="18465000" />
+      <workItem from="1590026835066" duration="5684000" />
+      <workItem from="1590313391658" duration="85000" />
+      <workItem from="1590556845705" duration="537000" />
+      <workItem from="1591083019180" duration="4009000" />
+      <workItem from="1591198081743" duration="8114000" />
+      <workItem from="1591753459060" duration="876000" />
+      <workItem from="1591772696611" duration="931000" />
+      <workItem from="1593171684099" duration="268000" />
+      <workItem from="1593330818074" duration="1483000" />
+      <workItem from="1593345791182" duration="1599000" />
+      <workItem from="1593750071762" duration="7280000" />
+      <workItem from="1594113952901" duration="83000" />
+      <workItem from="1595145875880" duration="892000" />
+      <workItem from="1597485624455" duration="628000" />
+      <workItem from="1598477477168" duration="751000" />
+      <workItem from="1598520951749" duration="2150000" />
+      <workItem from="1598793545757" duration="14000" />
+      <workItem from="1598850447715" duration="430000" />
+      <workItem from="1600344890342" duration="1722000" />
+      <workItem from="1600356945778" duration="146000" />
+      <workItem from="1602902429983" duration="4449000" />
+      <workItem from="1602916626685" duration="1635000" />
+      <workItem from="1602999130272" duration="6062000" />
+      <workItem from="1603093198900" duration="563000" />
+      <workItem from="1603101439467" duration="213000" />
+      <workItem from="1606978474634" duration="1247000" />
+      <workItem from="1606980966517" duration="2874000" />
+    </task>
+    <task id="LOCAL-00986" summary="glimpse">
+      <created>1588154847738</created>
+      <option name="number" value="00986" />
+      <option name="presentableId" value="LOCAL-00986" />
+      <option name="project" value="LOCAL" />
+      <updated>1588154847738</updated>
+    </task>
+    <task id="LOCAL-00987" summary="glimpse">
+      <created>1588155401668</created>
+      <option name="number" value="00987" />
+      <option name="presentableId" value="LOCAL-00987" />
+      <option name="project" value="LOCAL" />
+      <updated>1588155401668</updated>
+    </task>
+    <task id="LOCAL-00988" summary="glimpse">
+      <created>1588155489060</created>
+      <option name="number" value="00988" />
+      <option name="presentableId" value="LOCAL-00988" />
+      <option name="project" value="LOCAL" />
+      <updated>1588155489060</updated>
+    </task>
+    <task id="LOCAL-00989" summary="glimpse">
+      <created>1588155669825</created>
+      <option name="number" value="00989" />
+      <option name="presentableId" value="LOCAL-00989" />
+      <option name="project" value="LOCAL" />
+      <updated>1588155669825</updated>
+    </task>
+    <task id="LOCAL-00990" summary="glimpse">
+      <created>1588155724850</created>
+      <option name="number" value="00990" />
+      <option name="presentableId" value="LOCAL-00990" />
+      <option name="project" value="LOCAL" />
+      <updated>1588155724850</updated>
+    </task>
+    <task id="LOCAL-00991" summary="glimpse">
+      <created>1588156100971</created>
+      <option name="number" value="00991" />
+      <option name="presentableId" value="LOCAL-00991" />
+      <option name="project" value="LOCAL" />
+      <updated>1588156100971</updated>
+    </task>
+    <task id="LOCAL-00992" summary="glimpse">
+      <created>1588157178641</created>
+      <option name="number" value="00992" />
+      <option name="presentableId" value="LOCAL-00992" />
+      <option name="project" value="LOCAL" />
+      <updated>1588157178641</updated>
+    </task>
+    <task id="LOCAL-00993" summary="glimpse">
+      <created>1588167626275</created>
+      <option name="number" value="00993" />
+      <option name="presentableId" value="LOCAL-00993" />
+      <option name="project" value="LOCAL" />
+      <updated>1588167626275</updated>
+    </task>
+    <task id="LOCAL-00994" summary="glimpse">
+      <created>1588225263511</created>
+      <option name="number" value="00994" />
+      <option name="presentableId" value="LOCAL-00994" />
+      <option name="project" value="LOCAL" />
+      <updated>1588225263512</updated>
+    </task>
+    <task id="LOCAL-00995" summary="guesser">
+      <created>1588657412132</created>
+      <option name="number" value="00995" />
+      <option name="presentableId" value="LOCAL-00995" />
+      <option name="project" value="LOCAL" />
+      <updated>1588657412132</updated>
+    </task>
+    <task id="LOCAL-00996" summary="guesser">
+      <created>1588663152847</created>
+      <option name="number" value="00996" />
+      <option name="presentableId" value="LOCAL-00996" />
+      <option name="project" value="LOCAL" />
+      <updated>1588663152847</updated>
+    </task>
+    <task id="LOCAL-00997" summary="guesser">
+      <created>1588670947670</created>
+      <option name="number" value="00997" />
+      <option name="presentableId" value="LOCAL-00997" />
+      <option name="project" value="LOCAL" />
+      <updated>1588670947670</updated>
+    </task>
+    <task id="LOCAL-00998" summary="guesser">
+      <created>1588685661435</created>
+      <option name="number" value="00998" />
+      <option name="presentableId" value="LOCAL-00998" />
+      <option name="project" value="LOCAL" />
+      <updated>1588685661435</updated>
+    </task>
+    <task id="LOCAL-00999" summary="guesser">
+      <created>1588686611397</created>
+      <option name="number" value="00999" />
+      <option name="presentableId" value="LOCAL-00999" />
+      <option name="project" value="LOCAL" />
+      <updated>1588686611397</updated>
+    </task>
+    <task id="LOCAL-01000" summary="guesser">
+      <created>1588692981691</created>
+      <option name="number" value="01000" />
+      <option name="presentableId" value="LOCAL-01000" />
+      <option name="project" value="LOCAL" />
+      <updated>1588692981691</updated>
+    </task>
+    <task id="LOCAL-01001" summary="guesser">
+      <created>1588693062359</created>
+      <option name="number" value="01001" />
+      <option name="presentableId" value="LOCAL-01001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588693062359</updated>
+    </task>
+    <task id="LOCAL-01002" summary="guesser">
+      <created>1588693179789</created>
+      <option name="number" value="01002" />
+      <option name="presentableId" value="LOCAL-01002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588693179789</updated>
+    </task>
+    <task id="LOCAL-01003" summary="guesser">
+      <created>1588694319985</created>
+      <option name="number" value="01003" />
+      <option name="presentableId" value="LOCAL-01003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588694319985</updated>
+    </task>
+    <task id="LOCAL-01004" summary="guesser">
+      <created>1588743075649</created>
+      <option name="number" value="01004" />
+      <option name="presentableId" value="LOCAL-01004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588743075649</updated>
+    </task>
+    <task id="LOCAL-01005" summary="back">
+      <created>1588754391393</created>
+      <option name="number" value="01005" />
+      <option name="presentableId" value="LOCAL-01005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588754391393</updated>
+    </task>
+    <task id="LOCAL-01006" summary="back">
+      <created>1588777265925</created>
+      <option name="number" value="01006" />
+      <option name="presentableId" value="LOCAL-01006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588777265925</updated>
+    </task>
+    <task id="LOCAL-01007" summary="8npg">
+      <created>1589123193012</created>
+      <option name="number" value="01007" />
+      <option name="presentableId" value="LOCAL-01007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589123193013</updated>
+    </task>
+    <task id="LOCAL-01008" summary="8npg">
+      <created>1589123244489</created>
+      <option name="number" value="01008" />
+      <option name="presentableId" value="LOCAL-01008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589123244489</updated>
+    </task>
+    <task id="LOCAL-01009" summary="8npg">
+      <created>1589185262109</created>
+      <option name="number" value="01009" />
+      <option name="presentableId" value="LOCAL-01009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589185262109</updated>
+    </task>
+    <task id="LOCAL-01010" summary="guess RAHnp">
+      <created>1589786162277</created>
+      <option name="number" value="01010" />
+      <option name="presentableId" value="LOCAL-01010" />
+      <option name="project" value="LOCAL" />
+      <updated>1589786162277</updated>
+    </task>
+    <task id="LOCAL-01011" summary="guess RAHnp">
+      <created>1589809220639</created>
+      <option name="number" value="01011" />
+      <option name="presentableId" value="LOCAL-01011" />
+      <option name="project" value="LOCAL" />
+      <updated>1589809220639</updated>
+    </task>
+    <task id="LOCAL-01012" summary="guess RAHnp">
+      <created>1589818879676</created>
+      <option name="number" value="01012" />
+      <option name="presentableId" value="LOCAL-01012" />
+      <option name="project" value="LOCAL" />
+      <updated>1589818879676</updated>
+    </task>
+    <task id="LOCAL-01013" summary="guess RAHnp">
+      <created>1589819346596</created>
+      <option name="number" value="01013" />
+      <option name="presentableId" value="LOCAL-01013" />
+      <option name="project" value="LOCAL" />
+      <updated>1589819346596</updated>
+    </task>
+    <task id="LOCAL-01014" summary="guess RAHnp">
+      <created>1589905109654</created>
+      <option name="number" value="01014" />
+      <option name="presentableId" value="LOCAL-01014" />
+      <option name="project" value="LOCAL" />
+      <updated>1589905109654</updated>
+    </task>
+    <task id="LOCAL-01015" summary="guess gpu">
+      <created>1590028419079</created>
+      <option name="number" value="01015" />
+      <option name="presentableId" value="LOCAL-01015" />
+      <option name="project" value="LOCAL" />
+      <updated>1590028419080</updated>
+    </task>
+    <task id="LOCAL-01016" summary="guess gpu">
+      <created>1590066238694</created>
+      <option name="number" value="01016" />
+      <option name="presentableId" value="LOCAL-01016" />
+      <option name="project" value="LOCAL" />
+      <updated>1590066238694</updated>
+    </task>
+    <task id="LOCAL-01017" summary="new uaqrah">
+      <created>1591199780478</created>
+      <option name="number" value="01017" />
+      <option name="presentableId" value="LOCAL-01017" />
+      <option name="project" value="LOCAL" />
+      <updated>1591199780478</updated>
+    </task>
+    <task id="LOCAL-01018" summary="new uaqrah">
+      <created>1591200107092</created>
+      <option name="number" value="01018" />
+      <option name="presentableId" value="LOCAL-01018" />
+      <option name="project" value="LOCAL" />
+      <updated>1591200107092</updated>
+    </task>
+    <task id="LOCAL-01019" summary="new uaqrah">
+      <created>1591200183664</created>
+      <option name="number" value="01019" />
+      <option name="presentableId" value="LOCAL-01019" />
+      <option name="project" value="LOCAL" />
+      <updated>1591200183664</updated>
+    </task>
+    <task id="LOCAL-01020" summary="new uaqrah">
+      <created>1591233441811</created>
+      <option name="number" value="01020" />
+      <option name="presentableId" value="LOCAL-01020" />
+      <option name="project" value="LOCAL" />
+      <updated>1591233441811</updated>
+    </task>
+    <task id="LOCAL-01021" summary="new uaqrah">
+      <created>1591268910309</created>
+      <option name="number" value="01021" />
+      <option name="presentableId" value="LOCAL-01021" />
+      <option name="project" value="LOCAL" />
+      <updated>1591268910309</updated>
+    </task>
+    <task id="LOCAL-01022" summary="new uaqrah">
+      <created>1593830480198</created>
+      <option name="number" value="01022" />
+      <option name="presentableId" value="LOCAL-01022" />
+      <option name="project" value="LOCAL" />
+      <updated>1593830480198</updated>
+    </task>
+    <task id="LOCAL-01023" summary="viz g">
+      <created>1593830846116</created>
+      <option name="number" value="01023" />
+      <option name="presentableId" value="LOCAL-01023" />
+      <option name="project" value="LOCAL" />
+      <updated>1593830846116</updated>
+    </task>
+    <task id="LOCAL-01024" summary="viz g">
+      <created>1593831148183</created>
+      <option name="number" value="01024" />
+      <option name="presentableId" value="LOCAL-01024" />
+      <option name="project" value="LOCAL" />
+      <updated>1593831148183</updated>
+    </task>
+    <task id="LOCAL-01025" summary="viz g">
+      <created>1593831620091</created>
+      <option name="number" value="01025" />
+      <option name="presentableId" value="LOCAL-01025" />
+      <option name="project" value="LOCAL" />
+      <updated>1593831620091</updated>
+    </task>
+    <task id="LOCAL-01026" summary="viz g">
+      <created>1593832150558</created>
+      <option name="number" value="01026" />
+      <option name="presentableId" value="LOCAL-01026" />
+      <option name="project" value="LOCAL" />
+      <updated>1593832150558</updated>
+    </task>
+    <task id="LOCAL-01027" summary="viz g">
+      <created>1593833356563</created>
+      <option name="number" value="01027" />
+      <option name="presentableId" value="LOCAL-01027" />
+      <option name="project" value="LOCAL" />
+      <updated>1593833356563</updated>
+    </task>
+    <task id="LOCAL-01028" summary="viz g">
+      <created>1593833576745</created>
+      <option name="number" value="01028" />
+      <option name="presentableId" value="LOCAL-01028" />
+      <option name="project" value="LOCAL" />
+      <updated>1593833576745</updated>
+    </task>
+    <task id="LOCAL-01029" summary="viz g">
+      <created>1593834156181</created>
+      <option name="number" value="01029" />
+      <option name="presentableId" value="LOCAL-01029" />
+      <option name="project" value="LOCAL" />
+      <updated>1593834156181</updated>
+    </task>
+    <task id="LOCAL-01030" summary="viz g">
+      <created>1593834432401</created>
+      <option name="number" value="01030" />
+      <option name="presentableId" value="LOCAL-01030" />
+      <option name="project" value="LOCAL" />
+      <updated>1593834432401</updated>
+    </task>
+    <task id="LOCAL-01031" summary="viz g">
+      <created>1593834642220</created>
+      <option name="number" value="01031" />
+      <option name="presentableId" value="LOCAL-01031" />
+      <option name="project" value="LOCAL" />
+      <updated>1593834642220</updated>
+    </task>
+    <task id="LOCAL-01032" summary="viz g">
+      <created>1593834767090</created>
+      <option name="number" value="01032" />
+      <option name="presentableId" value="LOCAL-01032" />
+      <option name="project" value="LOCAL" />
+      <updated>1593834767090</updated>
+    </task>
+    <task id="LOCAL-01033" summary="viz g">
+      <created>1593834801955</created>
+      <option name="number" value="01033" />
+      <option name="presentableId" value="LOCAL-01033" />
+      <option name="project" value="LOCAL" />
+      <updated>1593834801955</updated>
+    </task>
+    <task id="LOCAL-01034" summary="viz g">
+      <created>1593834903797</created>
+      <option name="number" value="01034" />
+      <option name="presentableId" value="LOCAL-01034" />
+      <option name="project" value="LOCAL" />
+      <updated>1593834903797</updated>
+    </task>
+    <option name="localTasksCounter" value="1035" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="946712000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26323318" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="File Transfer" order="0" weight="0.2180723" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.1493976" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.32771084" />
+      <window_info anchor="bottom" id="Python Console" order="5" weight="0.6831325" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="9" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.32891566" />
+      <window_info anchor="right" id="Remote Host" order="0" weight="0.20529328" />
+      <window_info anchor="right" id="Database" order="1" weight="0.32960597" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="G_RHB" />
+    <MESSAGE value="test" />
+    <MESSAGE value="beam" />
+    <MESSAGE value="vis" />
+    <MESSAGE value="rein" />
+    <MESSAGE value="beta" />
+    <MESSAGE value="minus hred" />
+    <MESSAGE value="temp" />
+    <MESSAGE value="vis guess" />
+    <MESSAGE value="vis guess unable" />
+    <MESSAGE value="sp" />
+    <MESSAGE value="RIG" />
+    <MESSAGE value="RIG add q cost" />
+    <MESSAGE value="baseline uaqrah" />
+    <MESSAGE value="a s" />
+    <MESSAGE value="5m2sl" />
+    <MESSAGE value="5m2 np" />
+    <MESSAGE value="glimpse" />
+    <MESSAGE value="guesser" />
+    <MESSAGE value="back" />
+    <MESSAGE value="8npg" />
+    <MESSAGE value="guess RAHnp" />
+    <MESSAGE value="guess gpu" />
+    <MESSAGE value="new uaqrah" />
+    <MESSAGE value="viz g" />
+    <option name="LAST_COMMIT_MESSAGE" value="viz g" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/looper/config.rahm58g.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/looper/config.rhb8.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/looper/config.uaqrah8dg.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/models/looper/guess_looper.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/looper/config.uaqrah8g2new.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/models/qgen/qgen_uaqrah_network5m2_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4959">
+          <caret line="183" column="30" selection-start-line="183" selection-start-column="16" selection-end-line="183" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/models/qgen/rl_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3886">
+          <caret line="134" column="4" selection-start-line="134" selection-start-column="4" selection-end-line="134" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test_loop2.py" />
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/train/analyze_by_guesser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3466">
+          <caret line="143" column="81" selection-start-line="143" selection-start-column="81" selection-end-line="143" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/train/viz_guesser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-327">
+          <caret line="84" column="45" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test_loop.py" />
+    <entry file="file://$PROJECT_DIR$/out/looper/3dc053450598749026e2ce6119e47d48_v1/train.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/looper/3dc053450598749026e2ce6119e47d48_01111738/train.log" />
+    <entry file="file://$PROJECT_DIR$/out/guesser/c48036b430ebca1c44a25188edb05034/train.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generic/data_provider/image_loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="201" column="64" selection-start-line="201" selection-start-column="43" selection-end-line="201" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generic/utils/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/interactive_dialogue.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/train/train_qgen_reinforce_c.py" />
+    <entry file="file://$PROJECT_DIR$/src/generic/data_provider/iterator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="49" column="23" lean-forward="true" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/train/train_qgen_reinforce_b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3074">
+          <caret line="140" column="64" selection-start-line="140" selection-start-column="63" selection-end-line="140" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/models/qgen/qgen_wrapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7308">
+          <caret line="257" column="30" selection-start-line="257" selection-start-column="30" selection-end-line="257" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/data_provider/guesswhat_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12180">
+          <caret line="428" column="31" selection-start-line="400" selection-end-line="435" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/eval/interactive_dialogue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="130" column="92" selection-start-line="130" selection-start-column="77" selection-end-line="130" selection-end-column="92" />
+          <folding>
+            <element signature="e#1#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my_analyze.py" />
+    <entry file="file://$PROJECT_DIR$/src/print_v.py" />
+    <entry file="file://$PROJECT_DIR$/src/transmit.py" />
+    <entry file="file://$PROJECT_DIR$/src/utils_v.py" />
+    <entry file="file://$PROJECT_DIR$/src/visualize.py" />
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/models/guesser/guesser_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="58" column="35" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/guesser/c48036b430ebca1c44a25188edb05034/config.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/data_provider/guesser_batchifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/models/looper/basic_looper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5539">
+          <caret line="191" column="25" selection-start-line="191" selection-start-column="16" selection-end-line="191" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/models/guesser/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/train/train_qgen_reinforce_t.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neural_toolbox/ft_utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neural_toolbox/reading_unit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3393">
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neural_toolbox/fuse_mechanism.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-638">
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/data_provider/guesswhat_tokenizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/train/train_qgen_supervised.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1015">
+          <caret line="200" column="23" selection-start-line="200" selection-start-column="23" selection-end-line="200" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/train/train_qgen_reinforce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7626">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/models/guesser/guesser_RAH.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7975">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/models/guesser/guesser_wrapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-290">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/models/oracle/oracle_factory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/models/oracle/oracle_wrapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neural_toolbox/rnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4698">
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neural_toolbox/rnn_v1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neural_toolbox/utils_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1334">
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neural_toolbox/LayerNormBasicGRUCell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <element signature="e#205#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neural_toolbox/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/models/qgen/qgen_factory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="46" lean-forward="true" selection-start-column="46" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guesswhat/models/guesser/guesser_factory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

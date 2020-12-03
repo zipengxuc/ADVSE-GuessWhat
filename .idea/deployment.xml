@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="10.108.211.36">
+    <serverData>
+      <paths name="10.108.210.210">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/guesswhat_v2/" local="$PROJECT_DIR$" web="/guesswhat_v2/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="10.108.211.36">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/guesswhat_v2/" local="$PROJECT_DIR$" web="/guesswhat_v2/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="10.108.217.216">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/guesswhat_v2/" local="$PROJECT_DIR$" web="/guesswhat_v2/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

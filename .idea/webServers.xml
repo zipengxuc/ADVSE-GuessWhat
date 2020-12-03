@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4896b899-2804-4590-8ac4-4bd7c8cddd89" name="10.108.211.36" url="http://10.108.208.57">
+        <fileTransfer host="10.108.208.57" port="22" rootFolder="/home/xuzp/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b9651627-75aa-4089-a032-d7f11ff2bfdb" name="10.108.217.216" url="http://10.108.218.217">
+        <fileTransfer host="10.108.218.217" port="22" rootFolder="/home/xzp/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7cc584c1-7ea1-444a-8b81-81e58454f61c" name="10.108.210.210" url="http://10.108.210.210">
+        <fileTransfer host="10.108.210.210" port="22" rootFolder="/home/xzp/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

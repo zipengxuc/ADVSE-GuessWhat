@@ -1,0 +1,67 @@
+{
+  "name" : "ADVSE",
+
+  "model": {
+
+    "type" : "UAQRAH",
+
+    "inputs": {
+      "image": true
+    },
+
+    "dialogue": {
+      "word_embedding_dim": 300,
+      "glove" : false,
+      "cell": "gru",
+      "rnn_word_units": 600,
+      "rnn_context_units": 1200,
+      "bidirectional" : false,
+      "layer_norm" : false,
+      "max_pool" : false,
+
+      "share_decoder_emb": false
+    },
+
+    "image": {
+      "image_input": "rcnn",
+      "dim": [36, 2048],
+      "projection_units" : 0,
+      "normalize": true
+    },
+
+    "pooling" : {
+      "mode": "glimpse2",
+      "no_attention_mlp": 512,
+      "no_glimpses": 1,
+      "drop_out_keep": 0.5
+    },
+
+    "fusion" : {
+      "mode": "concat",
+      "projection_size": 600
+    },
+
+    "decoder" : {
+      "rnn_units": 600,
+      "layer_norm" : false,
+      "cell" : "gru"
+    },
+
+    "dropout_keep_prob" : 0.5
+
+  },
+
+  "optimizer": {
+    "no_epoch": 40,
+    "learning_rate": 1e-3,
+    "lr_decay": true,
+    "batch_size": 64,
+    "clip_val": 5.0,
+    "weight_decay": 0,
+    "weight_decay_add": ["film_stack"],
+    "weight_decay_remove": ["feedback_loop", "FiLM_layer"]
+  },
+
+  "status": ["success"],
+  "seed": -1
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Basic Looper (rnn) : baseline - test no drop",
+
+  "rl_module": "reinforce",
+
+  "optimizer": {
+    "name" : "GradientDescentOptimizer",
+    "no_epoch": 500,
+    "learning_rate": 1e-3,
+    "batch_size": 64,
+    "clip_val": 10,
+    "lr_decay": false,
+    "weight_decay": 0,
+    "weight_decay_add": [],
+    "weight_decay_remove": []
+  },
+
+  "loop": {
+    "max_question": 8,
+    "max_depth" : 12,
+    "beam_k_best" : 20
+  },
+
+
+
+  "oracle_identifier" : "6e0ec7f150b27f46296406853f498af6",
+  "guesser_identifier": "e5477b669340e0c3018d8a2bf46619b4",
+
+  "qgen_identifier" : "bbca0a5bea5d729640372e45ef15c91d",
+
+  "seed": 1
+
+}
