@@ -3,7 +3,7 @@ Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue
 
 This repository contains the code for the following paper:
 
-* Zipeng Xu, Fangxiang Feng, Xiaojie Wang, Yushu Yang, Huixing Jiang, Zhongyuan Wang, *Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue*. In ACM MM, 2020. ([PDF](https://arxiv.org/pdf/2010.00361.pdf))
+* Zipeng Xu, Fangxiang Feng, Xiaojie Wang, Yushu Yang, Huixing Jiang, Zhongyuan Wang, *Answer-Driven Visual State Estimator for Goal-Oriented Visual Dialogue*. In ACM MM, 2020. (https://dl.acm.org/doi/10.1145/3394171.3413668)
 
 ```
 @inproceedings{10.1145/3394171.3413668,
